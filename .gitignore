@@ -6,3 +6,4 @@ node_modules/
 /.env.production
 .idea
 package-lock.json
+/package-lock.json
