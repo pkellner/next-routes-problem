@@ -11,6 +11,12 @@ export default () => (
                 </Link>
             </li>
             <li>
+                <Link route='/presenter/2018/douglas-crockford-1124x'
+                      params={{ slugSpeaker: 'douglas-crockford-1124x',ccYear: '2018'}}>
+                    <a>/presenter/2018/douglas-crockford-1124x</a>
+                </Link>
+            </li>
+            <li>
                 <Link route='/presenter/2018' params={{ ccYear: '2018'}}>
                     <a>/presenter/2018</a>
                 </Link>

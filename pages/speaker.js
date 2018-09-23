@@ -19,7 +19,7 @@ class speaker extends Component {
     render() {
         return (
             <div>
-                <b>speakerdetail</b>
+                <b>speaker</b>
                 <hr/>
                 <Link route='/' >
                     <a>home</a>
