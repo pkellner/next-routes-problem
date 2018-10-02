@@ -8,6 +8,7 @@
     "prod": "node server.js"
   },
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
     "express": "^4.16.3",
     "next": "latest",
     "next-routes": "^1.4.2",
